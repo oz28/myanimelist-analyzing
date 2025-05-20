@@ -1,6 +1,6 @@
 # myanimelist-analyzing
 
-### Live Demo: https://oz28.github.io/myanimelist-analyzing/
+### Live Demo: https://orkzahn.github.io/myanimelist-analyzing/
 
 ***
 # **Analyse 1:** 
