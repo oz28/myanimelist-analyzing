@@ -1,0 +1,8 @@
+# ignoriere HTML und CSS und Jupyter Notebook in der GitHub-Sprachanalyse
+*.html linguist-vendored
+*.css linguist-vendored
+*.ipynb linguist-vendored
+
+# Python ist die Hauptsprache 
+*.py linguist-detectable
+
